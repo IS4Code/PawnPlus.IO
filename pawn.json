@@ -1,0 +1,18 @@
+{
+    "user": "IllidanS4",
+    "repo": "PawnPlus.IO",
+    "include_path": "pawno/include",
+    "dependencies": ["IllidanS4/PawnPlus"],
+    "resources": [
+        {
+            "name": "PawnPlus_IO.dll",
+            "platform": "windows",
+            "archive": false
+        },
+        {
+            "name": "PawnPlus_IO.so",
+            "platform": "linux",
+            "archive": false
+        }
+    ]
+}
